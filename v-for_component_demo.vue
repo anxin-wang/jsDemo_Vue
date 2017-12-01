@@ -1,9 +1,7 @@
 <div id="todo-list-example">
-    <input v-model="newTodoText" v-on:keyup.enter="addNewTodo" placeholder="Add a todo">
+    <input v-model="newTodoText" @keyup.enter="addNewTodo" placeholder="Add a todo">
     <ul>
-        <li is="todo-item" v-for="(todo, index) in todos" v-bind:key="index" v-bind:title="todo"
-                v-on:remove="todos.splice(index, 1)"
-        ></li>
+        <li is="todo-item" v-for="(todo, index) in todos" :key="index" :title="todo" @remove="todos.splice(index, 1)"></li>
     </ul>
 </div>
 
