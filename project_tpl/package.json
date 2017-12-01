@@ -11,13 +11,17 @@
   },
   "dependencies": {
     "axios": "^0.15.3",
+    "vue": "^2.2.2",
+    "vue-router": "^2.3.0",
+    "vuex": "^3.0.0",
     "echarts": "^3.3.2",
     "element-ui": "^2.0.1",
     "font-awesome": "^4.7.0",
-    "nprogress": "^0.2.0",
-    "vue": "^2.2.2",
-    "vue-router": "^2.3.0",
-    "vuex": "^3.0.0"
+    "babel-polyfill": "^6.26.0",
+    "es6-promise": "^4.1.1",
+    "FormData": "^0.10.1",
+    "js-base64": "^2.1.9",
+    "qrcode": "^0.9.0"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
