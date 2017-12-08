@@ -13,4 +13,5 @@ export default [{
   },{
     path: '/test2',
     component: test2
-},]
+  },]
+
