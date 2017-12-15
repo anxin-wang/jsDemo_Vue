@@ -1,7 +1,7 @@
 const index = r => require.ensure([], () => r(require('../page/index/index')), 'index')
 const test = r => require.ensure([], () => r(require('../page/test/test')), 'test')
 const test2 = r => require.ensure([], () => r(require('../page/test/test2')), 'test')
-
+const test3 = r => require.ensure([], () => r(require('../page/test/test3')), 'test')
 export default [{
   path: '/',
   component: index
@@ -13,5 +13,8 @@ export default [{
   },{
     path: '/test2',
     component: test2
-  },]
+  },{
+    path: '/test3',
+    component: test3
+  }]
 

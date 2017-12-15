@@ -14,7 +14,9 @@
           </el-menu>
         </div>
       </el-header>
-      <el-main>Main</el-main>
+      <el-main>
+
+      </el-main>
       <el-footer>Footer</el-footer>
     </el-container>
 </template>
@@ -25,6 +27,9 @@
       return {
         activeIndex: '1'
       };
+    },
+    mounted(){
+
     },
     methods: {
       handleSelect(key, keyPath) {

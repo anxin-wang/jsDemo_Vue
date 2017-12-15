@@ -3,6 +3,7 @@
     <p>This is the first component!{{ attr1 }}</p>
     <slot name="footer"></slot>
     <slot name="header"></slot>
+
   </div>
 
 </template>
@@ -14,6 +15,7 @@
 
       }
     },
+
 
     props: ['attr1'],
 

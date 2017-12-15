@@ -9,6 +9,7 @@ import routes from './router'
 import Vuex from 'vuex'
 import VueRouter from 'vue-router'
 import 'font-awesome/css/font-awesome.min.css'
+import 'jquery'
 
 Vue.use(ElementUI)
 Vue.use(VueRouter)
