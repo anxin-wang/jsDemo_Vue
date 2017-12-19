@@ -5,7 +5,7 @@
 <script>
   export default {
     name: "test3",
-    beforeMounted() {
+    mounted() {
       var wave = (function () {
         var ctx;
         var waveImage;
