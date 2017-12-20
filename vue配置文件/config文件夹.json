@@ -1,7 +1,0 @@
-//index.js
- build: {
- assetsPublicPath: '/vue-admin/',
- },
- dev: {
- port: 8080
- }
