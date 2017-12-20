@@ -1,0 +1,176 @@
+@charset "UTF-8";
+*{
+  padding: 0;
+  margin: 0;
+}
+#app{ background-color: #f7f7f7;padding-bottom: 20px;}
+.ivu-modal-mask{ background-color: rgba(0,0,0,.2);}
+.dialog-mask{ z-index: 999!important;}
+@font-face {
+  font-family: PingFangSC-Regular;
+  src: url('../font/PingFang Regular.ttf');
+}
+html,body{
+  font-family: PingFangSC-Regular;
+  font-size: 16px;
+  min-width: 1200px;
+  -webkit-font-smoothin: antialiased!important;
+  background-color: #f7f7f7!important;
+}
+.close-container{ position: relative;}
+.close-i-box{
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: -2px;
+  right: 0;
+  cursor: pointer;
+}
+.close-i-box:before{
+  content: '';
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 5px;
+  right: -8px;
+  border-left: 2px solid #cccccc;
+  border-bottom: transparent;
+  border-top: transparent;
+  border-right: transparent;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+.close-i-box:after{
+  content: '';
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: -7px;
+  right: -8px;
+  border-left: 2px solid #cccccc;
+  border-bottom: transparent;
+  border-top: transparent;
+  border-right: transparent;
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+.vertical-center-modal{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ivu-modal{ position: fixed;}
+.vertical-center-modal .ivu-modal{
+  top: 0;
+}
+.ivu-notice-with-normal:after{ background-color: #FDB75A}
+.default-none{
+  font-size: 14px;
+  color: #F4AC31!important;
+  line-height: 20px;
+}
+.bread-box{
+  height: 50px;
+  line-height: 50px;
+}
+.demo-spin-icon-load{
+  animation: ani-demo-spin 1s linear infinite;
+}
+.ivu-spin{ color: #666666;}
+.ivu-spin-dot{ background-color: #F4AC31;}
+.ivu-spin-fix{ background-color: rgba(0,0,0,.2)}
+.line-bar-top{
+  display: inline-block;
+  vertical-align: top;
+}
+.line-bar{
+  display: inline-block;
+  vertical-align: middle;
+}
+.ivu-select-selection:hover{
+  border-color: #F4AC31;
+}
+.ivu-breadcrumb a:hover, .ivu-icon-arrow-down-b:before{
+  color: #F4AC31;
+}
+.ivu-select-visible .ivu-select-selection{
+  border-color: #F4AC31;
+  -webkit-box-shadow: 0 0 0 2px rgba(244,172,49,.2);
+  -moz-box-shadow: 0 0 0 2px rgba(244,172,49,.2);
+  box-shadow: 0 0 0 2px rgba(244,172,49,.2);
+}
+.ivu-input:focus{
+  border-color: #F4AC31;
+  -webkit-box-shadow: 0 0 0 2px rgba(244,172,49,.2);
+  -moz-box-shadow: 0 0 0 2px rgba(244,172,49,.2);
+  box-shadow: 0 0 0 2px rgba(244,172,49,.2);
+}
+.ivu-input:hover{
+  border-color: #F4AC31;
+}
+.bg-container{ background-color: #ffffff;}
+.active{ color: #F4AC31!important;}
+.cursors{ cursor: pointer;}
+a{ text-decoration: none;}
+.clear-ul{ list-style: none;}
+.left, .float-ul li{ float: left;}
+.right{ float: right;}
+.basic-line{
+  max-width: 1200px;
+  width: auto;
+  margin: 0 auto;
+}
+.icon{
+  display: inline-block;
+  vertical-align: middle;
+  width: 14px;
+  height: 14px;
+  margin-right: 5px;
+}
+.icon-phone{
+  background: url("../images/icon.png") no-repeat;
+  background-position: -3px -22px;
+}
+.icon-email{
+  background: url("../images/icon.png") no-repeat;
+  background-position: -3px -44px;
+}
+.icon-mobile-phone{
+  background: url("../images/icon.png") no-repeat;
+  background-position: -3px 1px;
+}
+
+/**                   重写分页                              */
+.ivu-page-next:hover a, .ivu-page-prev:hover a{ color: #fff}
+.ivu-page-next:hover, .ivu-page-prev:hover{ border-color:#FDB75A;}
+.ivu-page-next:hover, .ivu-page-prev:hover{background-color: #FDB75A;}
+.ivu-page-next:hover a, .ivu-page-prev:hover a{ color: #FD75A;}
+.ivu-page-item a{
+  font-size: 14px;
+  color: #333333;
+}
+.ivu-page-item a:hover, .ivu-page-item:hover > a{ color: #FDB75A;}
+.ivu-page-item:hover{
+  border-color: #FDB75A;
+  color: #FDB75A;
+}
+.ivu-page-item-active, .ivu-page-item-active > a{
+  background-color: #FDB75A;
+  border-color: #FDB75A;
+  color: #fff!important;
+}
+.page-bxo{
+  margin-top: 10px;
+  text-align: center;
+}
+/**                   重写分页                              */

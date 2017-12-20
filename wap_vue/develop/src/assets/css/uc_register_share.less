@@ -1,0 +1,295 @@
+@brown:#77371c;
+@yellow:#ffd401;
+.uc_register_share{
+  width:100%;
+  min-height:100%;
+  position:absolute;
+  left:0px;
+  top:0px;
+  background:#fbf6e2;
+}
+.uc_register_share .reg-wrap{
+  padding:0px 15px;
+}
+.uc_register_share .reg-Explain{
+  padding:10px 8px;
+  background:white;
+  margin-top:20px;
+  font-size:15px;
+  color:@brown;
+  border-radius:3px;
+  -webkit-box-shadow: 1px 1px 1px rgba(255,212,1,0.5);
+  box-shadow: 1px 1px 1px rgba(255,212,1,0.5);
+}
+.uc_register_share .reg-Explain span{
+  color:red;
+}
+.reg-user-input > div.reg-input{
+  margin-top:20px;
+  position:relative;
+}
+.reg-user-input > div.reg-input input{
+  width:100%;
+  height:45px;
+  border-radius:45px;
+  border:none;
+  background:white;
+  text-indent:1.5em;
+  -webkit-box-shadow: 1px 1px 1px rgba(255,212,1,0.5);
+  box-shadow: 1px 1px 1px rgba(255,212,1,0.5);
+  font-size:14px;
+}
+.reg-user-input > div.reg-input button{
+  width:100%;
+  height:40px;
+  border-radius:40px;
+  border:none;
+  background:@yellow;
+  color:@brown;
+  margin-top:6px;
+  font-weight:600;
+  [disabled='disabled']{
+    background:#ccc;
+  }
+}
+.reg-user-input > div.reg-input button[disabled='disabled']{
+  background:#ccc;
+  color:#999;
+}
+.reg-user-input > div.reg-input div.ShowPwdBut{
+  position:absolute;
+  right:10px;
+  top:0px;
+  width:30px;
+  height:45px;
+  padding-top:13px;
+  img{width:100%;}
+}
+.reg-user-input p{
+  font-size:14px;
+  color:@brown;
+  padding:10px 15px;
+}
+.uc_register_share .reg-but{
+  width:100%;
+  margin-top:10px;
+  line-height:45px;
+  border-radius:45px;
+  background:@yellow;
+  text-align:center;
+  font-size:15px;
+  color:@brown;
+}
+.registerAgreement label{
+  position:relative;
+  margin-left:10px;
+  display:inline-block;
+}
+.registerAgreement label p{
+  padding-left:20px;
+  margin:10px 3px;
+  font-size:14px;
+  color:#999;
+  span{
+    color:@yellow
+  }
+  &:before{
+    content:'';
+    width:18px;
+    height:18px;
+    border-radius:50%;
+    background:#ccc;
+    position:absolute;
+    left:0px;
+    top:10px;
+  }
+}
+.registerAgreement input[type='radio']:checked + label p:before{
+  background:url("../../assets/images/user/duihao@1.5x.png") no-repeat;
+  background-size:100%;
+}
+.welfare{
+  min-width:100%;
+  margin-top:40px;
+  background:@yellow;
+  border-radius:10px;
+  position:relative;
+  padding:10px 15px;
+  padding-bottom:35px;
+}
+.welfare i{
+  width:30px;
+  height:16px;
+  background:url('../../assets/images/user/reg_img_7.png') no-repeat;
+  background-size:100%;
+  position:absolute;
+  right:10px;
+  bottom:10px;
+}
+.welfareTitleText{
+  padding:10px 0px;
+  margin:10px 0px;
+  border:2px solid @brown;
+  border-radius:40px;
+  text-align: center;
+  img{width:50%;}
+}
+.welfareInfo{
+  margin-top:15px;
+  min-height:100px;
+  background:#fff9e3;
+  border-radius:10px;
+  position:relative;
+}
+.decorate i,
+.decorate span{
+  width:25px;
+  height:100px;
+  background:url('../../assets/images/user/reg_img_6.png') no-repeat;
+  background-size:50%;
+  position:absolute;
+  top: -40px;
+}
+.decorate i{
+  left: 22px;
+}
+.decorate span{
+  right: 22px;
+}
+.welfareInfo ul{
+  padding:35px 10px 20px 10px;
+  li{
+    width:33.333%;
+    float:left;
+    position:relative;
+    padding:0px 6px;
+    img{width:100%;}
+    p{
+      text-align: center;
+      margin-top:8px;
+      font-size:14px;
+    }
+  }
+}
+.Hbinfo ul{
+  padding:10px 0px;
+  li{
+    width:100%;
+    margin-bottom:5px;
+    float:inherit;
+    line-height:30px;
+    text-indent:.5em;
+    font-size:14px;
+    div.fl{
+      background:white;
+    }
+    div.fr{
+      background:white;
+      color:#fb7870;
+    }
+  }
+}
+.UserDeal{
+  position:absolute;
+  top:0px;
+  background:white;
+  width: 35%;
+  height: 11%;
+  padding:8px 2px;
+  color:@brown;
+  font-size:14px;
+}
+.rewardView{
+  width:100%;
+  height:100%;
+  position:relative;
+}
+.red-lucky-money p{
+  color:@brown;
+  font-size:1.4px;
+}
+.red-lucky-money .u-B{
+  top: 17%;
+  right: 6%;
+}
+.red-lucky-money .u-D{
+  top: 46%;
+  left: 0%;
+}
+.red-lucky-money .u-C{
+  top: 46%;
+  right: 0%;
+}
+.uc_register_share{
+  .welfare{
+    .welfareInfo{
+      .xzJg{
+        li{
+          color:@brown;
+          float: inherit;
+          width:100%;
+          margin-bottom:29px;
+          div{
+            line-height:20px;
+            text-align: left;
+            h1{
+              font-size:16px;
+            }
+            img{width:100%;}
+            p{
+              color:#999;
+            }
+          }
+          &:nth-child(2){
+
+          }
+        }
+      }
+    }
+  }
+
+}
+@media screen and (min-width: 320px) and (max-width: 374px) {
+  .reg-Explain{
+    font-size:12px!important;
+
+  }
+  .rewardView{
+    .UserDeal{
+      font-size:12px!important;
+      padding:5px 2px!important;
+    }
+  }
+  .xzJg li div:nth-child(2){
+    width:60%!important;
+    p{
+      text-align: left!important;
+    }
+  }
+}
+@media screen and (min-width: 375px) and (max-width: 414px) {
+  .reg-Explain{
+    font-size:14px!important;
+
+  }
+}
+@media screen and (min-width: 375px) and (max-width: 413px) {
+  .reg-Explain{
+    font-size:14px!important;
+
+  }
+}
+@media screen and (min-width: 414px) {
+  .reg-Explain{
+    font-size:16px!important;
+    line-height:25px;
+  }
+  .xzJg li div:nth-child(2){
+    h1{
+      margin-top:10px;
+    }
+    p{
+      text-align: left!important;
+    }
+  }
+}

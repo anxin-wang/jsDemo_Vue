@@ -1,0 +1,151 @@
+@import "../../assets/css/common.less";
+
+
+
+.redPackets{
+  /*红包可用金额*/
+  .redPacketsMoney{
+    width:100%;
+    line-height:4.5rem;
+    background:white;
+    font-size:1.4rem;
+    div{
+      padding:0rem 1.2rem;
+      span{
+        color:red;
+      }
+    }
+  }
+  /*可用红包*/
+  .available{
+    padding:.5rem 1.2rem;
+    span{
+      color:red;
+      padding:0rem 0.2rem;
+      font-size:1.2rem;
+    }
+  }
+  /*红包列表*/
+  .redPacketsList{
+    padding:0rem 1.2rem;
+    >ul{
+     >li{
+        width:100%;
+        background:white;
+        margin-bottom:10px;
+        padding:1rem;
+        border-radius:10px;
+        &:after {
+          content: "";
+          clear: both;
+          display: block;
+          height: 0px;
+          overflow: hidden;
+          visibility: hidden;
+        }
+        div{
+          &:nth-child(1){
+            width:33%;
+            border-right:2px dashed #ccc;
+            i{
+              padding:0rem .8rem;
+              display:block;
+              position:relative;
+              img{
+                width:100%;
+              }
+            }
+            span{
+              position:absolute;
+              left:46%;
+              top:67%;
+              transform: translate(-50%,-50%);
+              color: #ffff4e;
+              font-size:2.5rem;
+            }
+            p{
+              font-size:1.2rem;
+              margin-top:4px;
+            }
+          }
+          &:nth-child(2){
+            width:60%;
+            padding-left:10px;
+            h1{
+              font-size:1.6rem;
+              font-weight:normal;
+            }
+            >ul{
+              margin-top:5px;
+              padding-left:5px;
+              >li{
+                font-size:1.2rem;
+                line-height:23px;
+                position:relative;
+                padding-left:3px;
+                &:before{
+                  content:"";
+                  width:5px;
+                  height:5px;
+                  background:#ccc;
+                  position:absolute;
+                  left:-8px;
+                  top:8px;
+                  border-radius:50%;
+                }
+                span{
+                  margin-left:5px;
+                }
+                span.red{
+                  color:red;
+                }
+              }
+            }
+          }
+          &:nth-child(3){
+            width:5%;
+            p{
+              color:#4a90e2;
+              font-size:1.5rem;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 320px) and (max-width: 374px) {
+  .redPackets{
+    .redPacketsMoney{
+      font-size:1.2rem;
+    }
+  }
+  .redPacketsList{
+    ul{
+      > li{
+        div{
+          &:nth-child(1){
+            span{
+              font-size:2rem!important;
+            }
+          }
+          &:nth-child(2){
+            h1{
+              font-size:1.4rem!important;
+            }
+          }
+        }
+      }
+    }
+  }
+}

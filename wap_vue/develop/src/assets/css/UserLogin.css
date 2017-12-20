@@ -1,0 +1,84 @@
+/*注册步骤条*/
+.Breadcrumb{
+    width:100%;
+    padding:7px 0px;
+    background-color:white;
+    border-style:none none solid none;
+    border-width:1px;
+    border-color: #e5e5e5;
+}
+.Breadcrumb ul{
+    width:50%;
+    margin:auto;
+}
+.Breadcrumb ul li{
+    float:left;
+    padding:0px 7px;
+    line-height:24px;
+}
+.Breadcrumb ul li.BreadcrumbColor{
+    color:red;
+}
+
+/*找回密码 输入框样式*/
+.PasswordBack{
+    margin-top:10px;
+}
+.PasswordBack form .box{
+    padding:4px 15px;
+    border-width:1px;
+    border-style:none none solid none;
+    border-color:#e5e5e5;
+    background:white;
+}
+.PasswordBack form .Inputmobile input{
+    width: 100%;
+    height:35px;
+    border:none;
+}
+/*注册*/
+.Register{
+    overflow: hidden;
+    position:relative;
+}
+/*1111*/
+.RegisterInputMobile{
+    margin-top:10px;
+    background:white;
+    padding:0px 15px;
+}
+.RegisterInputMobile input,
+.RegisterSetUpPassword input{
+    height:40px;
+    text-indent:1em;
+    width:100%;
+    border:none;
+}
+.RegisterAgreement{
+    padding:10px 15px;
+}
+.RegisterAgreement label{
+    width:18px;
+    height:18px;
+    display:inline-block;
+    background-image: url("../images/login/login_img_2.png");
+    background-size:100%;
+}
+.RegisterAgreement input[type='checkbox']:checked+label{
+    background-image: url("../images/login/login_img_1.png");
+    background-size:100%;
+}
+.RegisterAgreement div span{
+    color:red;
+}
+.mint-button{font-size:1.5rem;}
+
+/*33333*/
+.RegisterSetUpPassword{
+    padding-top:10px;
+    border-top:1px solid #f3f3f3;
+}
+.RegisterSetUpPassword input{
+    border-bottom:1px solid #f3f3f3;
+    height:40px;
+}

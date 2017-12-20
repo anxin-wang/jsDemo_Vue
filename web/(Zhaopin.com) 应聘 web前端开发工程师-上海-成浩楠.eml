@@ -1,0 +1,401 @@
+Received: from zm218-54.zhaopinmail.com (zm218-54.zhaopinmail.com [58.83.218.54])
+	by mr213134.mail.yeah.net (HMail) with ESMTP id 3BF3B281097
+	for <liangmingkun@zcshow.com>; Sun,  9 Jul 2017 13:08:08 +0800 (CST)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=zhaopinmail.com; i=@zhaopinmail.com; q=dns/txt;
+  s=dkim; t=1499576888; x=1531112888;
+  h=from:to:reply-to:subject:date:message-id:mime-version;
+  bh=oK5n1rM9DKB6PV6Dsxq8S4+ZGWZwv0QkUJcMnMHw75k=;
+  b=qwoo7oJnRzYUUZjPmVMPMzBXxX/wnajCdvT4FveMsD54fYthiXANAHil
+   0wJI/kZ1LT3G+uLnIxwPCXvXndhUcl21kEkpE+1gAtanhR81dgUleB2gc
+   krGUaM/4fyItgCWptiOsk8RLkeQDv2CYFUyf/wXtKQ4yO60FrZjXC8kSn
+   A=;
+Received: from bogon (HELO mail.zhaopinmail.com) ([172.30.8.96])
+  by zm218-54.zhaopinmail.com with SMTP; 09 Jul 2017 13:08:07 +0800
+From: "=?gb2312?B?1sfBqsfz1rDV3yCzybrG6ap=?=" <b1.service@zhaopinmail.com>
+To: "=?gb2312?B?bGlhbmdtaW5na3VuQHpjc2hvdy5j?=
+ =?gb2312?B?b21=?=" <liangmingkun@zcshow.com>
+Reply-To: "=?gb2312?B?1sfBqsfz1rDV3yCzybrG6ap=?=" <13363996825@163.com>
+Subject: =?gb2312?B?KFpoYW9waW4uY29tKSDTpsa4IHdl?=
+ =?gb2312?B?Ysewtsu/qreiuaSzzMqmLcnPuqMts8m6xumq?=
+Date: Sun, 09 Jul 2017 13:08:08 +0800
+Importance: High
+X-Priority: 1
+Message-ID: <20170709-13080816-f38@mail.zhaopinmail.com>
+uniqueid: CD2540C3-B496-4250-ABD2-E0BEB249E4A5
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--=E1C1DBA0C1CD463F95A6_0E69_3E38_25ED"
+X-HM-Spam-Status: e1ktWUFJV1koWUFJS0tKN1dZCBgUCR5ZQUtVS1dZCQ4XHghZQVkyNS06Nz
+	I*QUtVS1kG
+X-HM-Tid: 0a5d25bf6bde7d86kuuk3bf3b281097
+
+----=E1C1DBA0C1CD463F95A6_0E69_3E38_25ED
+Content-Type: text/html;charset="gb2312"
+Content-Transfer-Encoding: Quoted-Printable
+
+
+<style type=3D"text/css">
+      td,p,div,span {font-size:12px;color:#000000;font-family:=CB=CE=CC=
+=E5;}
+      td{line-height:20px;}
+      .btnbox{ width:600px; height:100px;}
+      .yelline{height:3px;  width:176px; float:left; margin-top:12px; f=
+ont-size:1;}
+      .btnbox-mid{  float:left; text-align:center}
+      .btnbox-yelbtn{font:500 20px Microsoft YaHei; color:#fff; padding=
+:5px 10px; background-color:#eb6100; text-decoration:none;border-radius=
+:5px;-webkit-border-radius:5px;-moz-border-radius:5px; border-bottom:2p=
+x #e54d00 solid; }
+      .Clicktext{ color:#004e9c}
+      .footercont{width:600px; border-top:1px #e1e1e1 solid;text-align:=
+center;line-height:20px; padding:10px 0;background:#f6f7f9;color:#a3a4a=
+9;}
+      .space-left{padding-left:3px;}
+      .space{padding:0 3px 0 3px}
+    </style><table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0" bgcolor=3D"#f6f7f9"><tr height=3D"85"><td align=3D"right" wi=
+dth=3D"213"><img src=3D"http://images.zhaopin.com/2014/c/img/logo15624.=
+png" width=3D"201" height=3D"70" /></td><td><a a=3D"" target=3D"_blank"=
+ href=3D"http://rd2.zhaopin.com/portal/myrd/regnew.asp?za=3D2"><img src=
+=3D"http://images.zhaopin.com/2014/c/img/eml_ban2.jpg?t=3D1" width=3D"3=
+70" height=3D"70" /></a></td></tr><tr><td height=3D"3" bgcolor=3D"#3696=
+d7" colspan=3D"2" /></tr><tr><td height=3D"3" bgcolor=3D"#e0e1e3" colsp=
+an=3D"2" /></tr><tr><td height=3D"10" /></tr></table><table width=3D"60=
+0" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgcolor=3D"#f6f7f9"=
+ style=3D"font-size: 12px;color: #000000;font-family: =CB=CE=CC=E5;"><t=
+r><td><table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0"><tr><td><table width=3D"570" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" bgcolor=3D"#ffffff" style=3D"border:1px sol=
+id #ebebeb"><tr><td colspan=3D"3" height=3D"10" /></tr><tr><td valign=3D=
+"top" width=3D"466"><table width=3D"466" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" style=3D"word-break: break-all; word-wrap:break-word;"=
+><tr style=3D"width:100%;height:50px"><td style=3D"font-size:22px;color=
+:#333333;font-family:'=CE=A2=C8=ED=D1=C5=BA=DA';padding-left:12px;line-=
+height:50px">=B3=C9=BA=C6=E9=AA</td></tr><tr width=3D"466" style=3D"hei=
+ght:30px"><td width=3D"466" style=3D"font-size:12px;color:#000000;line-=
+height:24px;padding-left:12px;word-break: break-all; word-wrap:break-wo=
+rd;"><font style=3D"font-weight:bold">=C4=D0</font><small style=3D"colo=
+r:#b5b5b5" class=3D"space">|</small><font style=3D"font-weight:bold">1=C4=
+=EA=B9=A4=D7=F7=BE=AD=D1=E9</font><small style=3D"color:#b5b5b5" class=3D=
+"space">|</small><font style=3D"font-weight:bold">1997=C4=EA1=D4=C2</fo=
+nt><small style=3D"color:#b5b5b5" class=3D"space">|</small><font style=3D=
+"font-weight:bold">=CE=B4=BB=E9</font><br />=CF=D6=BE=D3=D7=A1=D3=DA=C9=
+=CF=BA=A3-=C6=D6=B6=AB=D0=C2=C7=F8<small style=3D"color:#b5b5b5" class=3D=
+"space">|</small>=B4=F3=D7=A8<small style=3D"color:#b5b5b5;word-break:b=
+reak-all;" class=3D"space-left">|</small>=C9=C2=CE=F7-=CE=F7=B0=B2=BB=A7=
+=BF=DA
+                            </td></tr><tr style=3D"height:28px;"><td st=
+yle=3D"font-size:12px;color:#eb6100;padding-left:12px;">=B3=C9=BA=C6=E9=
+=AA<font style=3D"padding-left:12px;">=D2=AA=C7=F3=C4=FA=B8=F8=B3=F6=B7=
+=B4=C0=A1=BA=F3=B2=C5=D5=B9=CA=BE=C1=AA=CF=B5=B7=BD=CA=BD=A3=AC=C7=EB=B5=
+=E3=BB=F7=CF=C2=B7=BD=B0=B4=C5=A5=BD=F8=D0=D0=B7=B4=C0=A1</font></td></=
+tr><tr><td><table><tr><td width=3D"6" /><td width=3D"160" height=3D"34"=
+ style=3D"background:#2f9ddf;text-align:center;border-radius:4px;border=
+-bottom:#1c7ed1 1px solid"><a style=3D"font-size:14px;color:#ffffff;tex=
+t-decoration:none;" href=3D"http://cnt.zhaopin.com/Market/whole_counter=
+.jsp?sid=3D121125266&site=3D&url=3Dhttp://rd.zhaopin.com/resumepreview/=
+resume/emailim?ldparam=3D72061B08070F4866557756754A6F4F754A695B644B6551=
+665C6656775075556F48754A695164446554665D665D775375416F4B754C69226443655=
+16657664A770675166F147555695664416554665C665C7754754B6F4175556954644A65=
+5666556654775775406F40754D695A640">=CE=D2=D2=AA=C1=AA=CF=B5TA</a></td><=
+td width=3D"4" /><td width=3D"80" height=3D"34" style=3D"background:#ef=
+8f00;text-align:center;border-radius:4px;border-bottom:#e76f00 1px soli=
+d"><a style=3D"font-size:14px;color:#ffffff;text-decoration:none;" href=
+=3D"http://cnt.zhaopin.com/Market/whole_counter.jsp?sid=3D121125266&sit=
+e=3D&url=3Dhttp://rd.zhaopin.com/resumepreview/resume/viewone/1/6811029=
+948">
+                                          =D4=DD=B2=BB=BA=CF=CA=CA
+                                        </a></td><td width=3D"4" /><td =
+width=3D"160" /></tr></table></td></tr></table></td><td width=3D"80"><d=
+iv class=3D"photo" style=3D"padding: 0px 5px 5px 5px"><a target=3D"_bla=
+nk" href=3D"https://img00.zhaopin.cn/2012/img/my/v5/lookResumes.jpg"><i=
+mg border=3D"
+                              0
+                            " width=3D"
+                              70
+                            " height=3D"
+                              90
+                            " style=3D"
+                              vertical-align:middle
+                            " src=3D"https://img00.zhaopin.cn/2012/img/=
+my/v5/lookResumes.jpg" /></a></div></td><td width=3D"6" /></tr><tr><td =
+colspan=3D"3" height=3D"10" /></tr></table></td></tr><tr><td height=3D"=
+10" /></tr><tr><td><table width=3D"570" align=3D"center" cellpadding=3D=
+"0" cellspacing=3D"0" border=3D"0" style=3D"word-break: break-all; word=
+-wrap:break-word;" /></td></tr><tr><td><table width=3D"570" height=3D"3=
+0" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgcolor=3D"#429bd8"=
+><tr><td style=3D"border:1px solid #ebebeb;padding-left:5px;word-break:=
+ break-all; word-wrap:break-word;"><span style=3D"color:#ffffff;font-si=
+ze:14px;">=D7=D4=CE=D2=C6=C0=BC=DB</span></td></tr></table><table width=
+=3D"570"><tr><td colspan=3D"2" height=3D"5" /></tr><tr><td colspan=3D"2=
+" style=3D"line-height:18px;word-break:break-all;word-wrap:break-word;p=
+adding-left:12px;">=CE=D2=CA=C7=D2=BB=B8=F6=CB=E6=BA=CD=B5=C4=C8=CB=A3=AC=
+=CF=B2=BB=B6=C2=C3=D3=CE=CF=B2=BB=B6=CC=BD=CB=F7=D2=BB=D0=A9=D0=C2=CA=C2=
+=CE=EF=A3=AC=B0=AE=BA=C3=BB=A5=C1=AA=CD=F8=BF=AA=B7=A2=B6=D4=BB=A5=C1=AA=
+=BF=AA=B7=A2=D3=D0=C7=BF=C1=D2=B5=C4=CC=BD=CB=F7=D2=E2=CA=B6=A3=AC=B6=D4=
+pc=B6=CB=CD=F8=D2=B3=D6=C6=D7=F7=BA=CD=D2=C6=B6=AF=B6=CB=CD=F8=D2=B3=BC=
+=BC=CA=F5=D3=D0=D2=BB=B6=A8=B5=C4=BE=AD=D1=E9=A3=AC=C4=DC=B9=BB=B6=C0=C1=
+=A2=C8=A5=CD=EA=B3=C9=CF=EE=C4=BF=A1=A3</td></tr><tr><td colspan=3D"2" =
+height=3D"5" /></tr></table></td></tr><tr><td><br /><table width=3D"570=
+" height=3D"30" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0" bgcolor=3D"#429bd8"><tr><td style=3D"border:1px solid #ebebe=
+b;padding-left:5px;"><span style=3D"color:#ffffff;font-size:14px;">=C7=F3=
+=D6=B0=D2=E2=CF=F2</span></td></tr></table><br /><table width=3D"570" a=
+lign=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><t=
+d width=3D"95" align=3D"right" valign=3D"top">=C6=DA=CD=FB=B9=A4=D7=F7=B5=
+=D8=C7=F8=A3=BA</td><td width=3D"475" valign=3D"top">=C9=CF=BA=A3</td><=
+/tr><tr><td width=3D"95" align=3D"right" valign=3D"top">=C6=DA=CD=FB=B9=
+=A4=D7=F7=D0=D4=D6=CA=A3=BA</td><td width=3D"475" valign=3D"top">=C8=AB=
+=D6=B0</td></tr><tr><td width=3D"95" align=3D"right" valign=3D"top">=C6=
+=DA=CD=FB=B4=D3=CA=C2=D6=B0=D2=B5=A3=BA</td><td width=3D"475" valign=3D=
+"top">WEB=C7=B0=B6=CB=BF=AA=B7=A2=A1=A2</td></tr><tr><td width=3D"95" a=
+lign=3D"right" valign=3D"top">=C6=DA=CD=FB=D4=C2=D0=BD=A3=BA</td><td wi=
+dth=3D"475" valign=3D"top">4001-6000=D4=AA/=D4=C2</td></tr><tr><td widt=
+h=3D"95" align=3D"right" valign=3D"top">=C4=BF=C7=B0=D7=B4=BF=F6=A3=BA<=
+/td><td width=3D"475" valign=3D"top">=CE=D2=C4=BF=C7=B0=B4=A6=D3=DA=C0=EB=
+=D6=B0=D7=B4=CC=AC=A3=AC=BF=C9=C1=A2=BC=B4=C9=CF=B8=DA</td></tr><tr><td=
+ width=3D"95" align=3D"right" valign=3D"top">=C6=DA=CD=FB=B4=D3=CA=C2=D0=
+=D0=D2=B5=A3=BA</td><td width=3D"475" valign=3D"top">=BB=A5=C1=AA=CD=F8=
+/=B5=E7=D7=D3=C9=CC=CE=F1</td></tr></table></td></tr><tr><td><br /><tab=
+le width=3D"570" height=3D"30" align=3D"center" cellpadding=3D"0" cells=
+pacing=3D"0" border=3D"0" bgcolor=3D"#429bd8"><tr><td style=3D"border:1=
+px solid #ebebeb;padding-left:5px;"><span style=3D"color:#ffffff;font-s=
+ize:14px;">=B9=A4=D7=F7=BE=AD=C0=FA</span></td></tr></table><br /><tabl=
+e width=3D"570" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0"><tr><td style=3D"color:#333333;"><table cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0" style=3D"margin-bottom:15px;word-break: br=
+eak-all; word-wrap:break-word;"><tr><td width=3D"132" height=3D"22" sty=
+le=3D"text-align:right;font-weight:bold; font-size:12px; font-family:'=D0=
+=C2=CB=CE=CC=E5';"><p style=3D"width:132px;text-align:right;font-weight=
+:bold; font-size:12px; font-family:'=D0=C2=CB=CE=CC=E5';">2016/07
+                                    - 2017/05</p></td><td width=3D"424"=
+ style=3D"padding-left:14px; font-weight:bold;word-break: break-all; wo=
+rd-wrap:break-word;"><span style=3D"display:inline-block;margin:0 2px">=
+=C9=CF=BA=A3=CE=B4=D3=A2=CD=F8=C2=E7=BF=C6=BC=BC=D3=D0=CF=DE=B9=AB=CB=BE=
+</span><span style=3D"display:inline-block;margin:0 2px; font-size:12px=
+; font-family:'=D0=C2=CB=CE=CC=E5';">
+                                    =A3=A810=B8=F6=D4=C2=A3=A9
+                                  </span></td></tr><tr><td width=3D"132=
+" height=3D"22" /><td width=3D"424" style=3D"padding-left:14px; font-we=
+ight:bold;word-break: break-all; word-wrap:break-word; font-size:12px; =
+font-family:'=D0=C2=CB=CE=CC=E5';"><span style=3D"display:inline-block;=
+margin:0 2px">web=C7=B0=B6=CB=BF=AA=B7=A2=B9=A4=B3=CC=CA=A6=CA=B5=CF=B0=
+=C9=FA</span><font style=3D"display:inline-block;margin:0 2px; font-siz=
+e:12px; font-family:'=D0=C2=CB=CE=CC=E5';">|</font><span style=3D"displ=
+ay:inline-block;margin:0 2px; font-size:12px; font-family:'=D0=C2=CB=CE=
+=CC=E5';">4001-6000=D4=AA/=D4=C2</span></td></tr><tr><td width=3D"132" =
+height=3D"22" /><td width=3D"424" style=3D"padding-left:14px;word-break=
+: break-all; word-wrap:break-word;"><span style=3D"display:inline-block=
+;margin:0 2px; font-size:12px; font-family:'=D0=C2=CB=CE=CC=E5';">=BB=A5=
+=C1=AA=CD=F8/=B5=E7=D7=D3=C9=CC=CE=F1</span><font style=3D"display:inli=
+ne-block;margin:0 2px">|</font><span style=3D"display:inline-block;marg=
+in:0 2px">
+                                      =C6=F3=D2=B5=D0=D4=D6=CA=A3=BA=C3=
+=F1=D3=AA</span><font style=3D"display:inline-block;margin:0 2px">|</fo=
+nt><span style=3D"display:inline-block;margin:0 2px">
+                                      =B9=E6=C4=A3=A3=BA20=C8=CB=D2=D4=CF=
+=C2</span></td></tr><tr><td width=3D"132" height=3D"22" /><td width=3D"=
+424" style=3D"padding-left:14px;word-break: break-all; word-wrap:break-=
+word;"><p style=3D"line-height:20px;"><span>=B9=A4=D7=F7=C3=E8=CA=F6=A3=
+=BA</span>=B9=A4=D7=F7=D6=B0=D4=F0=A3=BA=D2=C6=B6=AF=B6=CB=BA=CDpc=B6=CB=
+=BE=B2=CC=AC=D2=B3=C3=E6=B5=C4=C5=C5=B0=E6=A3=BB<br/>&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp; =CA=B9=D3=C3js=BA=CDjq=CD=EA=B3=C9=D2=B3=C3=E6=CC=D8=D0=A7=A3=BB=
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =C0=FB=D3=C3swiper=B2=E5=BC=FE bootstrap=
+=BF=F2=BC=DC=CD=EA=B3=C9=D2=B3=C3=E6=B2=BF=B7=D6=CC=D8=D0=A7=A3=BB<br/>=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp; =BA=F3=C6=DA=D2=B2=BB=E1=B8=BA=D4=F0Ajax=BC=BC=
+=CA=F5=CD=EA=B3=C9=D3=EB=BA=F3=CC=A8=B5=C4=CA=FD=BE=DD=BD=BB=BB=A5=A1=A3=
+</p></td></tr></table></td></tr></table></td></tr><tr><td><br /><table =
+width=3D"570" height=3D"30" align=3D"center" cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0" bgcolor=3D"#429bd8"><tr><td style=3D"border:1px =
+solid #ebebeb;padding-left:5px;"><span style=3D"color:#ffffff;font-size=
+:14px;">=CF=EE=C4=BF=BE=AD=D1=E9</span></td></tr></table><br /><table w=
+idth=3D"570" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0"><tr><td style=3D"color:#333333;word-break: break-all; word-wrap=
+:break-word;"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" s=
+tyle=3D"margin-bottom:15px;word-break: break-all; word-wrap:break-word;=
+"><tr><td width=3D"132" height=3D"22" style=3D"text-align:right;font-we=
+ight:bold; font-size:12px; font-family:'=D0=C2=CB=CE=CC=E5';"><p style=3D=
+"width:132px;text-align:right;font-weight:bold; font-size:12px; font-fa=
+mily:'=D0=C2=CB=CE=CC=E5';">2017/04
+                                    - 2017/04</p></td><td width=3D"424"=
+ style=3D"padding-left:14px; font-weight:bold"><span style=3D"display:i=
+nline-block;margin:0 2px">=C2=F8=CD=B7=C9=CC=D1=A7=D4=BA/www.mtedu.com<=
+/span></td></tr><tr><td width=3D"132" height=3D"22" /><td width=3D"424"=
+ style=3D"padding-left:14px;"><p style=3D"line-height:20px;"><span>=C8=ED=
+=BC=FE=BB=B7=BE=B3=A3=BA</span>Windows7=B2=D9=D7=F7=CF=B5=CD=B31</p></t=
+d></tr><tr><td width=3D"132" height=3D"22" /><td width=3D"424" style=3D=
+"padding-left:14px;"><p style=3D"line-height:20px;"><span>=D3=B2=BC=FE=BB=
+=B7=BE=B3=A3=BA</span>pc=BB=FA</p></td></tr><tr><td width=3D"132" heigh=
+t=3D"22" /><td width=3D"424" style=3D"padding-left:14px;"><p style=3D"l=
+ine-height:20px;"><span>=BF=AA=B7=A2=B9=A4=BE=DF=A3=BA</span>HBuilder=2B=
+Dreamweaver=2BPS=B5=C8</p></td></tr><tr><td width=3D"132" height=3D"22"=
+ /><td width=3D"424" style=3D"padding-left:14px;word-break: break-all; =
+word-wrap:break-word;"><p style=3D"line-height:20px;"><span>=D4=F0=C8=CE=
+=C3=E8=CA=F6=A3=BA</span>=D4=DA=B8=C3=CF=EE=C4=BF=D6=D0=CE=D2=D6=F7=D2=AA=
+=B8=BA=D4=F0=D2=D4=CF=C2=B7=BD=C3=E6:<br/>1.=CD=F8=D5=BE=C7=B0=B6=CB=D2=
+=B3=C3=E6=B5=C4=B9=B9=BD=A8=A1=A3<br/>2.CSS3=B5=C4=D0=C2=D4=F6=D0=A7=B9=
+=FB<br/>3.jq=C0=B4=CA=B5=CF=D6=CD=F8=D2=B3=B5=C4=CC=D8=D0=A7=A1=A3<br/>=
+4.=BA=F3=C6=DA=BB=E1=B8=BA=D4=F0=D2=BB=B5=E3ajax=BC=BC=CA=F5=D3=EB=BA=F3=
+=CC=A8=B5=C4=BD=BB=BB=A5=A1=A3<br/>5.=B8=BA=D4=F0=BD=E2=BE=F6=D3=CE=C0=C0=
+=C6=F7=BC=E6=C8=DD=CE=CA=CC=E2=BA=CD=D2=B3=C3=E6=D3=C5=BB=AF=A1=A3</p><=
+/td></tr><tr><td width=3D"132" height=3D"22" /><td width=3D"424" style=3D=
+"padding-left:14px;"><p style=3D"line-height:20px;word-break: break-all=
+; word-wrap:break-word;"><span>=CF=EE=C4=BF=BC=F2=BD=E9=A3=BA</span>=B8=
+=C3=CF=EE=C4=BF=CA=C7=D1=A7=CF=B0=C0=E0=CD=F8=D5=BE=A1=A3=D6=F7=D2=AA=C4=
+=A3=BF=E9=D3=D0=A3=BA=CA=D7=D2=B3=A3=AC=B2=FA=C6=B7=BE=AD=C0=ED=A3=AC=BB=
+=A5=C1=AA=CD=F8=D3=AA=CF=FA=A3=AC=B2=FA=C6=B7=D4=CB=D3=AA=A3=AC=C6=F3=D2=
+=B5=C4=DA=D1=B5=A1=A3=BF=C9=D2=D4=CD=A8=B9=FD=CA=D3=C6=B5=A3=AC=D0=C2=CE=
+=C5=B5=C8=C1=CB=BD=E2=D2=BB=D0=A9=D7=EE=D0=C2=B5=C4=BB=A5=C1=AA=CD=F8=B7=
+=BD=C3=E6=D0=C2=CE=C5=A1=A3<br/>=D2=B3=C3=E6=B2=C9=D3=C3=C1=CBHTML5=A3=AC=
+CSS3=A3=ACJS,ajax=B5=C8=BC=BC=CA=F5</p></td></tr></table></td></tr><tr>=
+<td style=3D"color:#333333;word-break: break-all; word-wrap:break-word;=
+"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"marg=
+in-bottom:15px;word-break: break-all; word-wrap:break-word;"><tr><td wi=
+dth=3D"132" height=3D"22" style=3D"text-align:right;font-weight:bold; f=
+ont-size:12px; font-family:'=D0=C2=CB=CE=CC=E5';"><p style=3D"width:132=
+px;text-align:right;font-weight:bold; font-size:12px; font-family:'=D0=C2=
+=CB=CE=CC=E5';">2016/08
+                                    - 2016/08</p></td><td width=3D"424"=
+ style=3D"padding-left:14px; font-weight:bold"><span style=3D"display:i=
+nline-block;margin:0 2px">=B4=F3=BA=C3=B2=C6=B8=BB/www.dahaocaifu.com</=
+span></td></tr><tr><td width=3D"132" height=3D"22" /><td width=3D"424" =
+style=3D"padding-left:14px;"><p style=3D"line-height:20px;"><span>=C8=ED=
+=BC=FE=BB=B7=BE=B3=A3=BA</span>Windows7=B2=D9=D7=F7=CF=B5=CD=B31</p></t=
+d></tr><tr><td width=3D"132" height=3D"22" /><td width=3D"424" style=3D=
+"padding-left:14px;"><p style=3D"line-height:20px;"><span>=D3=B2=BC=FE=BB=
+=B7=BE=B3=A3=BA</span>pc=BB=FA</p></td></tr><tr><td width=3D"132" heigh=
+t=3D"22" /><td width=3D"424" style=3D"padding-left:14px;"><p style=3D"l=
+ine-height:20px;"><span>=BF=AA=B7=A2=B9=A4=BE=DF=A3=BA</span>HBuilder=2B=
+Dreamweaver=2BPS=B5=C8</p></td></tr><tr><td width=3D"132" height=3D"22"=
+ /><td width=3D"424" style=3D"padding-left:14px;word-break: break-all; =
+word-wrap:break-word;"><p style=3D"line-height:20px;"><span>=D4=F0=C8=CE=
+=C3=E8=CA=F6=A3=BA</span>=D4=DA=B8=C3=CF=EE=C4=BF=D6=D0=CE=D2=D6=F7=D2=AA=
+=B8=BA=D4=F0=D2=D4=CF=C2=B7=BD=C3=E6:<br/>1=CD=F8=D5=BE=C7=B0=B6=CB=D2=B3=
+=C3=E6=B5=C4=B9=B9=BD=A8=A3=AC=D2=D4=BC=B0=B6=AF=D0=A7=B5=C4=CA=B5=CF=D6=
+=A1=A3<br/>2.js=C0=B4=CA=B5=CF=D6=CD=F8=D5=BE=D6=D0=B5=C4=CC=D8=D0=A7<b=
+r/>3.=BA=F3=C6=DA=BB=E1=B8=BA=D4=F0=D2=BB=B5=E3ajax=BC=BC=CA=F5=D3=EB=BA=
+=F3=CC=A8=B5=C4=BD=BB=BB=A5<br/>4.=BD=E2=BE=F6=D3=CE=C0=C0=C6=F7=BC=E6=C8=
+=DD=CE=CA=CC=E2=BA=CD=D2=B3=C3=E6=D3=C5=BB=AF.</p></td></tr><tr><td wid=
+th=3D"132" height=3D"22" /><td width=3D"424" style=3D"padding-left:14px=
+;"><p style=3D"line-height:20px;word-break: break-all; word-wrap:break-=
+word;"><span>=CF=EE=C4=BF=BC=F2=BD=E9=A3=BA</span>=B8=C3=CF=EE=C4=BF=CD=
+=B6=D7=CA=C0=E0=CD=F8=D5=BE=A1=A3=D6=F7=D2=AA=C4=A3=BF=E9=B7=D6=CE=AA=CA=
+=D7=D2=B3,=D0=C2=C8=FD=B0=E5,=D0=C5=CD=D0=D7=CA=B9=DC,=BA=A3=CD=E2=CD=B6=
+=D7=CA,=B2=C6=BE=AD=D7=CA=D1=B6,=BE=AB=D1=A1=D7=A8=CC=E2,=D6=D0=D1=EB=B2=
+=C6=B8=BB=C8=A6,=B9=D8=D3=DA=CE=D2=C3=C7=A1=A3=CE=AA=CF=B2=BB=B6=CD=B6=D7=
+=CA=D5=DF=CC=E1=B9=A9=C1=BC=BA=C3=C6=BD=CC=A8<br/>=CD=F8=D5=BE=D6=F7=D2=
+=AA=B2=C9=D3=C3HTML5,CSS3,ajax=B5=C8=BC=BC=CA=F5=A1=A3</p></td></tr></t=
+able></td></tr></table></td></tr><tr><td><br /><table width=3D"570" hei=
+ght=3D"30" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" bgcolor=3D"#429bd8"><tr><td style=3D"border:1px solid #ebebeb;paddi=
+ng-left:5px;"><span style=3D"color:#ffffff;font-size:14px;">=BD=CC=D3=FD=
+=BE=AD=C0=FA</span></td></tr></table><br /><table width=3D"570" align=3D=
+"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td style=
+=3D"color:#333333;word-break: break-all; word-wrap:break-word;"><table =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr height=3D"20"><td =
+width=3D"132" style=3D" font-size:12px; font-family:'=D0=C2=CB=CE=CC=E5=
+';" valign=3D"top"><p style=3D"width:132px;text-align:right;font-weight=
+:bold; font-size:12px; font-family:'=D0=C2=CB=CE=CC=E5';">2015/04 - 201=
+7/05</p></td><td width=3D"412" style=3D"word-break: break-all; word-wra=
+p:break-word;padding-left:12px;"><span style=3D"display:inline-block;ma=
+rgin-right:12px;font-weight:normal;">=D0=C2=BB=AAIT=B4=F3=D1=A7</span><=
+span style=3D"display:inline-block;margin-right:12px;font-weight:normal=
+;">
+                                    &nbsp;=C8=ED=BC=FE=B9=A4=B3=CC</spa=
+n><span style=3D"display:inline-block;margin-right:12px;font-weight:nor=
+mal;">
+                                      &nbsp;=B7=C7=CD=B3=D5=D0</span><s=
+pan style=3D"display:inline-block;margin-right:12px;font-weight:normal;=
+">
+                                    &nbsp;=B4=F3=D7=A8</span></td></tr>=
+</table></td></tr></table></td></tr><tr><td><br /><table width=3D"570" =
+height=3D"30" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" bord=
+er=3D"0" bgcolor=3D"#429bd8"><tr><td style=3D"border:1px solid #ebebeb;=
+padding-left:5px;"><span style=3D"color:#ffffff;font-size:14px;">=D7=A8=
+=D2=B5=BC=BC=C4=DC</span></td></tr></table><br /><table width=3D"570" a=
+lign=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><t=
+d style=3D"color:#333333;word-break: break-all; word-wrap:break-word;">=
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr height=3D"2=
+0"><td style=3D"padding-left:12px;"><span style=3D"display:inline-block=
+;margin-right:4px;">java</span><span style=3D"display:inline-block;marg=
+in-right:4px;">
+                                    &nbsp;=D2=BB=B0=E3</span><font styl=
+e=3D"display:inline-block;margin-right:4px;">|</font><span style=3D"dis=
+play:inline-block;margin-right:4px;">4</span></td></tr><tr height=3D"20=
+"><td style=3D"padding-left:12px;"><span style=3D"display:inline-block;=
+margin-right:4px;">sql=2Bmysql</span><span style=3D"display:inline-bloc=
+k;margin-right:4px;">
+                                    &nbsp;=D2=BB=B0=E3</span><font styl=
+e=3D"display:inline-block;margin-right:4px;">|</font><span style=3D"dis=
+play:inline-block;margin-right:4px;">3</span></td></tr><tr height=3D"20=
+"><td style=3D"padding-left:12px;"><span style=3D"display:inline-block;=
+margin-right:4px;">JavaScript</span><span style=3D"display:inline-block=
+;margin-right:4px;">
+                                    &nbsp;=C1=BC=BA=C3</span><font styl=
+e=3D"display:inline-block;margin-right:4px;">|</font><span style=3D"dis=
+play:inline-block;margin-right:4px;">9</span></td></tr><tr height=3D"20=
+"><td style=3D"padding-left:12px;"><span style=3D"display:inline-block;=
+margin-right:4px;">jquery</span><span style=3D"display:inline-block;mar=
+gin-right:4px;">
+                                    &nbsp;=C1=BC=BA=C3</span><font styl=
+e=3D"display:inline-block;margin-right:4px;">|</font><span style=3D"dis=
+play:inline-block;margin-right:4px;">7</span></td></tr><tr height=3D"20=
+"><td style=3D"padding-left:12px;"><span style=3D"display:inline-block;=
+margin-right:4px;">Photoshop</span><span style=3D"display:inline-block;=
+margin-right:4px;">
+                                    &nbsp;=CA=EC=C1=B7</span><font styl=
+e=3D"display:inline-block;margin-right:4px;">|</font><span style=3D"dis=
+play:inline-block;margin-right:4px;">5</span></td></tr><tr height=3D"20=
+"><td style=3D"padding-left:12px;"><span style=3D"display:inline-block;=
+margin-right:4px;">ajax</span><span style=3D"display:inline-block;margi=
+n-right:4px;">
+                                    &nbsp;=C1=BC=BA=C3</span><font styl=
+e=3D"display:inline-block;margin-right:4px;">|</font><span style=3D"dis=
+play:inline-block;margin-right:4px;">3</span></td></tr><tr height=3D"20=
+"><td style=3D"padding-left:12px;"><span style=3D"display:inline-block;=
+margin-right:4px;">asp.net</span><span style=3D"display:inline-block;ma=
+rgin-right:4px;">
+                                    &nbsp;=D2=BB=B0=E3</span><font styl=
+e=3D"display:inline-block;margin-right:4px;">|</font><span style=3D"dis=
+play:inline-block;margin-right:4px;">2</span></td></tr><tr height=3D"20=
+"><td style=3D"padding-left:12px;"><span style=3D"display:inline-block;=
+margin-right:4px;">HTML5=2BCSS3</span><span style=3D"display:inline-blo=
+ck;margin-right:4px;">
+                                    &nbsp;=CA=EC=C1=B7</span><font styl=
+e=3D"display:inline-block;margin-right:4px;">|</font><span style=3D"dis=
+play:inline-block;margin-right:4px;">5</span></td></tr></table></td></t=
+r></table></td></tr><tr><td><br /><table width=3D"570" height=3D"30" al=
+ign=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgcolor=
+=3D"#429bd8"><tr><td style=3D"border:1px solid #ebebeb;line-height:18px=
+;padding-left:5px;"><span style=3D"color:#ffffff;font-size:14px;">WEB=C7=
+=B0=B6=CB=BC=BC=C4=DC</span></td></tr></table><br /><table width=3D"570=
+" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr=
+><td style=3D"color:#333333;line-height:20px;padding-left:12px;word-bre=
+ak: break-all; word-wrap:break-word;"><br/>1.=CA=EC=CF=A4W3C=B9=E6=B7=B6=
+=A3=AC=CA=EC=C1=B7=D4=CB=D3=C3div=2Bcss=D6=C6=D7=F7=B7=FB=BA=CFW3C=B1=EA=
+=D7=BC=B5=C4=BE=B2=CC=AC=D2=B3=C3=E6,=CA=EC=C1=B7=CA=B9=D3=C3=D3=C5=D1=C5=
+=BD=B5=BC=B6=B5=C4=B7=BD=CA=BD=BD=E2=BE=F6=E4=AF=C0=C0=C6=F7=BC=E6=C8=DD=
+<br/>2..=CA=EC=C1=B7=CA=B9=D3=C3JavaScript=D3=EBJquery=BF=AA=B7=A2WEB=D3=
+=A6=D3=C3<br/>3.=CA=EC=CF=A4=D5=C6=CE=D5JavaScript/Ajax=B5=C8=C7=B0=B6=CB=
+=BD=BB=BB=A5=BF=AA=B7=A2=BC=BC=CA=F5<br/>4.=CA=EC=CF=A4bootstrap=A1=A2j=
+Query=B5=C8=C7=B0=B6=CBUI=BF=F2=BC=DC=D2=D4=BC=B0Swiper=B5=C8=D6=F7=C1=F7=
+=B2=E5=BC=FE=B5=C4=D4=CB=D3=C3=A3=AC=C4=DC=B9=BB=BF=EC=CB=D9=CA=B5=CF=D6=
+=CF=EC=D3=A6=CA=BD=CD=F8=D2=B3=B5=C4=BF=AA=B7=A2=A3=BB<br/>5.=CA=EC=C1=B7=
+=D5=C6=CE=D5HTML5=B5=C4=CF=E0=B9=D8=BC=BC=CA=F5=BA=CDCSS3=B5=C4=D0=C2=D4=
+=F6=CA=F4=D0=D4<br/>6.=CA=EC=C1=B7=D2=C6=B6=AF=B6=CB=B5=C4=B2=BC=BE=D6=A3=
+=AC=B6=D4=B0=D9=B7=D6=B1=C8=A1=A2REM=B2=BC=BE=D6=D3=D0=B7=E1=B8=BB=B5=C4=
+=BE=AD=D1=E9=A3=AC=CD=EA=B3=C9=B4=D3=C7=D0=CD=BC=B5=BD=C9=CF=CF=DF=B5=C4=
+=BC=E6=C8=DD=B6=E0=D6=D6=E4=AF=C0=C0=C6=F7=B5=C4=B4=FA=C2=EB=B1=E0=D0=B4=
+=B9=A4=D7=F7=A3=BB<br/>=D4=DA=D0=A3=C6=DA=BC=E4=CF=B5=CD=B3=B9=FD=B5=C4=
+=D1=A7=CF=B0=B9=FDjava=A3=ACphp=D3=D0=D2=BB=B6=A8=B5=C4=BB=F9=B4=A1</td=
+></tr></table></td></tr></table></td></tr></table><br /><table width=3D=
+"600" height=3D"80" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bg=
+color=3D"#f6f7f9"><tr><td width=3D"165" /><td width=3D"270" style=3D"te=
+xt-align:center;" /><td width=3D"165" /></tr></table>
+
+
+----=E1C1DBA0C1CD463F95A6_0E69_3E38_25ED--

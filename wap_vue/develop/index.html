@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes" /><!-- 网站开启对web app程序的支持。 -->
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" /><!-- 在web app应用下状态条（屏幕顶部条）的颜色； -->
+  <meta name="format-detection" content="telephone=yes"/> <!--电话号码显示为拨号的超链接 -->
+  <meta charset="utf-8">
+  <title></title>
+  <!-- 引入自适应类库，不建议在main.js里引入 -->
+  <script src="//unpkg.com/vue-ydui/dist/ydui.flexible.js"></script>
+</head>
+<body>
+<div id="app"></div>
+<!-- built files will be auto injected -->
+<script src="https://res.wx.qq.com/open/js/jweixin-1.2.0.js"></script>
+<!-- http://support.dun.163.com/captcha/api/ -->
+<script src="https://cstaticdun.126.net/load.min.js"></script>
+
+<script>
+function zichanjiaActivityType() {
+    var obj = {type: "0", cate_id: "123",borrow_id: "234"}
+    zichanjia_app_android.activity(JSON.stringify(obj));
+}
+function shareMsg() {
+    zichanjia_app_android.sharemsg();
+}
+function sharedraw(){
+  zichanjia_app_android.sharedraw();
+}
+function applogin(){ //登录
+  zichanjia_app_android.applogin();
+}
+</script>
+
+</body>
+</html>
