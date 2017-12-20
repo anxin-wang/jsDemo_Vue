@@ -5,8 +5,14 @@
 <script>
   export default {
     name: "test3",
-    mounted() {
-      var wave = (function () {
+    data() {
+
+      return {
+        wave: null
+      }
+    },
+    beforeMount(){
+      this.wave = (function () {
         var ctx;
         var waveImage;
         var canvasWidth;
@@ -18,8 +24,10 @@
           var canvas = document.createElement('canvas');
           if (!canvas.getContext) return;
           ctx = canvas.getContext('2d');
-          canvasWidth = wave.offsetWidth;
-          canvasHeight = wave.offsetHeight;
+          // canvasWidth = wave.offsetWidth;
+          canvasWidth = 100;
+          // canvasHeight = wave.offsetHeight;
+          canvasHeight = 100;
           canvas.setAttribute('width', canvasWidth);
           canvas.setAttribute('height', canvasHeight);
           wave.appendChild(canvas);
@@ -55,6 +63,7 @@
 
             ctx.globalCompositeOperation = 'source-over';
             ctx.beginPath();
+            console.log(canvasWidth,canvasHeight);
             ctx.arc(canvasWidth / 2, canvasHeight / 2, canvasHeight / 2, 0, Math.PI * 2, true);
             ctx.closePath();
             ctx.fill();
@@ -83,7 +92,9 @@
 
         return {start: start, stop: stop};
       }());
-      wave.start();
+    },
+    mounted() {
+      this.wave.start();
     }
   }
 </script>
