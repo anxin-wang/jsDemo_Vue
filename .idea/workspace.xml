@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3cd3253-eb5f-41c3-a5c1-70677b5a6c53" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/engineering-web.zip" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/mall_pc_vue.rar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/v-for_component_demo.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wap_vue.rar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/工作簿1.xlsx" afterPath="" />
-    </list>
+    <list default="true" id="d3cd3253-eb5f-41c3-a5c1-70677b5a6c53" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -97,6 +90,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -286,12 +284,12 @@
       <workItem from="1513666778341" duration="4597000" />
       <workItem from="1513751236846" duration="246000" />
       <workItem from="1513751545244" duration="1241000" />
-      <workItem from="1513754133382" duration="6087000" />
+      <workItem from="1513754133382" duration="6185000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76739000" />
+    <option name="totallyTimeSpent" value="76837000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
