@@ -30,7 +30,7 @@
 
 <script>
 
-  import myComponent from '../../components/mycomponent'
+  import myComponent from '../../components/test/mycomponent'
 
   export default {
 
