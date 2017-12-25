@@ -8,6 +8,7 @@ import {routerMode} from './config/env'
 import routes from './router'
 import Vuex from 'vuex'
 import VueRouter from 'vue-router'
+import './config/rem'
 import 'font-awesome/css/font-awesome.min.css'
 import 'jquery'
 
