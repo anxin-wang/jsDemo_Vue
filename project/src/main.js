@@ -7,6 +7,7 @@ import 'element-ui/lib/theme-chalk/index.css'
 import {routerMode} from './config/env'
 import routes from './router'
 import Vuex from 'vuex'
+import store from './store/'
 import VueRouter from 'vue-router'
 import 'font-awesome/css/font-awesome.min.css'
 import 'jquery'
@@ -30,12 +31,13 @@ const router = new VueRouter({
     }
   }
 })
-console.log(router);
+
 
 
 
 /* eslint-disable no-new */
 new Vue({
   router,
-  render: h => h(App)
+  render: h => h(App),
+  store
 }).$mount('#app')

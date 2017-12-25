@@ -13,7 +13,7 @@ const state = {
   longitude: '', // 当前位置经度
   cartList: {}, // 加入购物车的商品列表
   shopDetail: null, //商家详情信息
-  userInfo: null, //用户信息
+  userInfo: true, //用户信息
   shopid: null,//商铺id
   remarkText: null,//可选备注内容
   inputText: '',//输入备注内容

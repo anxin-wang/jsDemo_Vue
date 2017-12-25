@@ -36,7 +36,7 @@
             waveImage.onload = null;
             callback();
           }
-          waveImage.src = require('../../assets/test/wave.png');
+          waveImage.src = require('../../assets/images/test/wave.png');
 
         }
 

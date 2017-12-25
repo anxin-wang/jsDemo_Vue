@@ -8,26 +8,16 @@
 
 <script>
   export default {
-    name: 'app'
+
   }
 </script>
 
-<style>
-  body {
-    margin: 0px;
-    padding: 0px;
-    /*background: url(assets/bg1.jpg) center !important;
-          background-size: cover;*/
-  // background: #1F2D3D;
-    font-family: Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, SimSun, sans-serif;
-    font-size: 14px;
-    -webkit-font-smoothing: antialiased;
+<style lang="scss">
+  @import './assets/style/common';
+  .router-fade-enter-active, .router-fade-leave-active {
+    transition: opacity .3s;
   }
-
-  #app {
-    position: absolute;
-    top: 0px;
-    bottom: 0px;
-    width: 100%;
+  .router-fade-enter, .router-fade-leave-active {
+    opacity: 0;
   }
 </style>

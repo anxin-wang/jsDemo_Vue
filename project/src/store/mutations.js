@@ -30,7 +30,7 @@ import {
   BUY_CART,
 } from './mutation-types.js'
 
-import {setStore, getStore} from '../config/tils'
+import {setStore, getStore} from '../config/utils'
 
 export default {
   [RECORD_ADDRESS](state,{latitude,longitude}){
