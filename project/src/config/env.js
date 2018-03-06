@@ -10,16 +10,17 @@
 
 let routerMode = 'history';
 let imgBaseUrl = 'http://images.cangdu.org/';
-
+var baseUrl;
 
 if (process.env.NODE_ENV == 'development') {
-
+  baseUrl = 'http://cangdu.org:8001';
 }else if(process.env.NODE_ENV == 'production'){
 
-	// baseUrl = 'http://cangdu.org:8001';
+	baseUrl = 'http://cangdu.org:8001';
 }
 
 export {
 	routerMode,
 	imgBaseUrl,
+  baseUrl
 }

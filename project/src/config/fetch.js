@@ -1,12 +1,13 @@
 import axios from 'axios'
+import { baseUrl } from './env'
 import { Base64 } from 'js-base64'
 // import { Spin } from 'iview'
 
 // axios 配置
 axios.defaults.timeout = 5000;
 axios.defaults.headers.post['Content-Type'] = 'application/x-www-form-urlencoded;charset=UTF-8';
-axios.defaults.baseURL = 'http://cangdu.org:8001';
-let baseUrl = 'http://cangdu.org:8001';
+axios.defaults.baseURL = baseUrl;
+
 
 // export default (url = '', data = {}, type = 'GET') =>{
 //   type = type.toUpperCase();
@@ -83,7 +84,6 @@ function checkStatus(response,resolve,reject) {
 
 export default (url = '', data = {}, type = 'GET') =>{
   type = type.toUpperCase();
-  url=baseUrl+url;
 
   //处理参数
   let formData = new FormData();
