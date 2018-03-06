@@ -1,5 +1,5 @@
 import fetch from '../config/fetch'
-import {getStore} from '../config/utils'
+import {getStore} from '../config/storage'
 
 /**
  * 获取首页默认地址

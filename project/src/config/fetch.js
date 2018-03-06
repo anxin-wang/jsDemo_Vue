@@ -6,9 +6,9 @@ import { Base64 } from 'js-base64'
 axios.defaults.timeout = 5000;
 axios.defaults.headers.post['Content-Type'] = 'application/x-www-form-urlencoded;charset=UTF-8';
 axios.defaults.baseURL = 'http://cangdu.org:8001';
-// let baseUrl = 'http://cangdu.org:8001';
+let baseUrl = 'http://cangdu.org:8001';
 
-export default (url = '', data = {}, type = 'GET', method = 'fetch') =>{
+export default (url = '', data = {}, type = 'GET') =>{
   type = type.toUpperCase();
   url=baseUrl+url;
 
@@ -60,18 +60,5 @@ export default (url = '', data = {}, type = 'GET', method = 'fetch') =>{
         })
     }
   })
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 }
